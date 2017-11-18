@@ -26,8 +26,8 @@
 # 禁止访问列表
 
 # 个人列表
-(^|\.)esyzdb.com\.com$
-(^|\.)njwdj.com\.com$
+(^|\.)esyzdb\.com$
+(^|\.)njwdj\.com$
 
 
 # 广告关键词
